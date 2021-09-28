@@ -33,3 +33,6 @@ N4 is not pointing to anything, marking the end of the word. 
 ## Application
 
 ## Reference: 
+Tutorials on Trie Data Structure
+https://www.geeksforgeeks.org/trie-insert-and-search/
+https://www.youtube.com/watch?v=-urNrIAQnNo
