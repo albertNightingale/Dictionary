@@ -10,8 +10,12 @@ Each tree node holds 26 sub-children, represented by Trie pointer.
 Other than the root node, which have the option to initialize on the stack or on the heap. All sub-nodes are on the heap. 
 The only data Trie holds is a boolean variable indicating whether this Trie marks the end of a word. 
 
+## Constraints: 
+COMING SOON!!!
+
 ## Documentation: 
 COMING SOON!!!
+For now, please refer to comments above Trie.cpp. 
 
 ## Files
 Trie.h: header file of Trie class. 
@@ -31,6 +35,7 @@ N3.next[t] is pointing to N4. N4.isword = true. 
 N4 is not pointing to anything, marking the end of the word. 
 
 ## Application
+COMING SOON!!!
 
 ## Reference: 
 Tutorials on Trie Data Structure
